@@ -1,0 +1,11 @@
+body {
+  background: linear-gradient(to left top, #49ff01de, #8316ff);
+  text-align: center;
+  height: 100vh;
+}
+
+h1 {
+  margin: 100px 0;
+  font-size: 70px;
+  color: #fff;
+}
